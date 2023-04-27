@@ -2,7 +2,7 @@
 
 > Note: This is a simple implmentation of using Selenium WebDriver testing implemented in Javascript.
 
-For more detailed infos, you can refer the official Selenium Docs - [Selenium Docs](https://www.selenium.dev/).
+For more detailed infos, you can refer to the official Selenium Docs - [Selenium Docs](https://www.selenium.dev/).
 
 ### How to run the sample test on your local machine :
 
@@ -18,7 +18,7 @@ For more detailed infos, you can refer the official Selenium Docs - [Selenium Do
    mocha testScript.spec.js
 ```
 
-### Also, you can test the sample.js
+### Also, you can use the sample.js
 
 ```js
   node sample.js

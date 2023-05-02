@@ -1,6 +1,6 @@
 ## Testing React Web Application using a Selenium WebDriver
 
-> Note: This is a simple implmentation of using Selenium WebDriver testing implemented in Javascript.
+> Note: This is a simple implementation of using Selenium WebDriver in Javascript.
 
 For more detailed infos, you can refer to the official Selenium Docs - [Selenium Docs](https://www.selenium.dev/).
 

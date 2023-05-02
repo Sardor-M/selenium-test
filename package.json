@@ -7,11 +7,13 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha testScript.spec.js"
+    "test": "mocha selenium-test.js",
+    "ui-test": "mocha --timeout 10000"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chai": "^4.3.7",
     "mocha": "^10.2.0",
     "selenium-webdriver": "^4.9.0"
   }

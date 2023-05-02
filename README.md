@@ -6,7 +6,7 @@ For more detailed infos, you can refer to the official Selenium Docs - [Selenium
 
 ### How to run the sample test on your local machine :
 
-- First, you need to install mocha:
+- First, you need to install mocha testing framework globally on your machine by running the following command:
 
 ```js
    npm i --global mocha
@@ -18,8 +18,12 @@ For more detailed infos, you can refer to the official Selenium Docs - [Selenium
    mocha testScript.spec.js
 ```
 
-### Also, you can use the sample.js
+### Also, you can test the sample.js
 
 ```js
   node sample.js
 ```
+
+### Available Testing Scripts
+
+- You can also refer to the available testing scripts in the test folder.
